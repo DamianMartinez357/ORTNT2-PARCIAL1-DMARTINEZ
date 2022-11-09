@@ -1,5 +1,4 @@
-# nt2-parcial-danielpisa
-
+# nt2-parcial1-dmartinez
 ## Project setup
 ```
 npm install
